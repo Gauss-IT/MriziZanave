@@ -1,2 +1,2 @@
-# MriziZanave
-A restaurant app for Mrizi i zanave
+# Mrizi i Zanave
+A restaurant app for the slow food restaurant Mrizi i zanave
